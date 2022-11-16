@@ -5,7 +5,7 @@ Henrique Nellessen - Tia -
 
 O Código Foi Feito em C, Na IDE do CodeBlock, também foi testado no Ambiente Online Em LINUX:
 Segue o passo  a passo para conseguir a compilação do Código que utiliza threads:
-$
-$ gcc arquivo.c -o arquivo -lpthread
-$
+
+gcc arquivo.c -o arquivo -lpthread
+
 
